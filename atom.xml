@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codesbuff.github.io</id>
-    <title>XYC</title>
-    <updated>2019-07-07T14:46:57.448Z</updated>
+    <title>XYC.XYZ</title>
+    <updated>2019-07-07T14:49:59.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codesbuff.github.io"/>
     <link rel="self" href="https://codesbuff.github.io/atom.xml"/>
-    <subtitle>随便写点东西，</subtitle>
+    <subtitle>本站不追求排名、不关心收录、不在乎别人看法，做网站只为自己爱好。</subtitle>
     <logo>https://codesbuff.github.io/images/avatar.png</logo>
     <icon>https://codesbuff.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, XYC</rights>
+    <rights>All rights reserved 2019, XYC.XYZ</rights>
     <entry>
         <title type="html"><![CDATA[网站创建成功]]></title>
         <id>https://codesbuff.github.io/post/wzcjcg</id>
