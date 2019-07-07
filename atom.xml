@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://keziyun.coding.me/</id>
+    <id>http://keziyun.coding.me</id>
     <title>Gridea</title>
-    <updated>2019-07-07T03:56:07.868Z</updated>
+    <updated>2019-07-07T03:56:33.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://keziyun.coding.me/"/>
-    <link rel="self" href="http://keziyun.coding.me//atom.xml"/>
+    <link rel="alternate" href="http://keziyun.coding.me"/>
+    <link rel="self" href="http://keziyun.coding.me/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://keziyun.coding.me//images/avatar.png</logo>
-    <icon>http://keziyun.coding.me//favicon.ico</icon>
+    <logo>http://keziyun.coding.me/images/avatar.png</logo>
+    <icon>http://keziyun.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[网站创建成功]]></title>
-        <id>http://keziyun.coding.me//post/wzcjcg</id>
-        <link href="http://keziyun.coding.me//post/wzcjcg">
+        <id>http://keziyun.coding.me/post/wzcjcg</id>
+        <link href="http://keziyun.coding.me/post/wzcjcg">
         </link>
         <updated>2019-07-07T03:44:16.000Z</updated>
         <content type="html"><![CDATA[<p>认真算起来我前前后后也做过几十个网站了，其中有网址导航、聚合搜索、三合一收款码、淘宝客、主题资源网、技术博客、个人博客等等。其中个人博客方面我总是做一段时间就删关掉，没能坚持下来。</p>
@@ -26,18 +26,18 @@
 <p>我是个很容易分心的人，就好比正在更新内容时，我可能因为一张截图或压缩图片时看到别的感兴趣的内容，就耽误了正事，等回过神来后又没了更新的动力。</p>
 <p>这次创建这个个人博客，希望自己能坚持住。</p>
 <p>本次创建博客用的是Gridea系统---一个静态博客写作客户端，客户端非常简单，不过确能满足个人博客写作所需。</p>
-<p><img src="http://keziyun.coding.me//post-images/1562471738792.png" alt=""></p>
-<p><img src="http://keziyun.coding.me//post-images/1562471748299.png" alt=""></p>
-<p><img src="http://keziyun.coding.me//post-images/1562471752612.png" alt=""></p>
-<p><img src="http://keziyun.coding.me//post-images/1562471756359.png" alt=""></p>
-<p><img src="http://keziyun.coding.me//post-images/1562471759983.png" alt=""></p>
-<p><img src="http://keziyun.coding.me//post-images/1562471763007.png" alt=""></p>
+<p><img src="http://keziyun.coding.me/post-images/1562471738792.png" alt=""></p>
+<p><img src="http://keziyun.coding.me/post-images/1562471748299.png" alt=""></p>
+<p><img src="http://keziyun.coding.me/post-images/1562471752612.png" alt=""></p>
+<p><img src="http://keziyun.coding.me/post-images/1562471756359.png" alt=""></p>
+<p><img src="http://keziyun.coding.me/post-images/1562471759983.png" alt=""></p>
+<p><img src="http://keziyun.coding.me/post-images/1562471763007.png" alt=""></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://keziyun.coding.me//post/hello-gridea</id>
-        <link href="http://keziyun.coding.me//post/hello-gridea">
+        <id>http://keziyun.coding.me/post/hello-gridea</id>
+        <link href="http://keziyun.coding.me/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
