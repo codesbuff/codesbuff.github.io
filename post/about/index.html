@@ -4,7 +4,7 @@
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>关于 | 飞鱼笔记</title>
-<link rel="shortcut icon" href="https://codesbuff.github.io//favicon.ico?v=1562502003667">
+<link rel="shortcut icon" href="https://codesbuff.github.io//favicon.ico?v=1562502570721">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://codesbuff.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://codesbuff.github.io/">
-  <img class="avatar" src="https://codesbuff.github.io//images/avatar.png?v=1562502003667" alt="">
+  <img class="avatar" src="https://codesbuff.github.io//images/avatar.png?v=1562502570721" alt="">
   </a>
   <h1 class="site-title">
     飞鱼笔记
@@ -94,28 +94,25 @@
 
         
           
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-<div id="gitalk-container"></div>
+          
+            <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css">
+<script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
+
+<div id="disqus_thread"></div>
 
 <script>
 
-  var gitalk = new Gitalk({
-    clientID: 'dd4166cce2affd00518a',
-    clientSecret: 'af758499be59b3356fd485e829c77070b90302ca',
-    repo: 'codesbuff.github.io',
-    owner: 'codesbuff',
-    admin: ['codesbuff'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
+var options = {
+  shortname: 'codesbuff.github.io',
+  apikey: 'ywl36Z6ja8PlZQjkxFF7ovY0wjkHfFE7nLUKaALV7zShsyXSAtHenhFEWBjAR7TT',
+}
+if ('https://disqus.skk.moe/disqus/') {
+  options.api = 'https://disqus.skk.moe/disqus/'
+}
+var dsqjs = new DisqusJS(options)
 
 </script>
-
-          
 
           
         
