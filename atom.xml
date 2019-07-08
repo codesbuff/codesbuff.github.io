@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codesbuff.github.io</id>
     <title>XYC.XYZ</title>
-    <updated>2019-07-08T07:08:01.974Z</updated>
+    <updated>2019-07-08T07:42:30.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codesbuff.github.io"/>
     <link rel="self" href="https://codesbuff.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://codesbuff.github.io/images/avatar.png</logo>
     <icon>https://codesbuff.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, XYC.XYZ</rights>
+    <entry>
+        <title type="html"><![CDATA[腐团]]></title>
+        <id>https://codesbuff.github.io/post/cosplay-2</id>
+        <link href="https://codesbuff.github.io/post/cosplay-2">
+        </link>
+        <updated>2019-07-08T07:35:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始的魔法书（零）]]></title>
+        <id>https://codesbuff.github.io/post/cosplay-1</id>
+        <link href="https://codesbuff.github.io/post/cosplay-1">
+        </link>
+        <updated>2019-07-08T07:11:36.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致谢Gridea]]></title>
         <id>https://codesbuff.github.io/post/zhi-xie-gridea</id>
